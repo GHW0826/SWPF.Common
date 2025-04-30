@@ -1,0 +1,13 @@
+D:\git\SWPF.GameDevTool\SWPF.Common\SWPF.Common\bin\Debug\SWPF.Common.dll
+D:\git\SWPF.GameDevTool\SWPF.Common\SWPF.Common\bin\Debug\SWPF.Common.pdb
+D:\git\SWPF.GameDevTool\SWPF.Common\SWPF.Common\obj\Debug\SWPF.Common.csproj.AssemblyReference.cache
+D:\git\SWPF.GameDevTool\SWPF.Common\SWPF.Common\obj\Debug\Styles\ButtonStyles.baml
+D:\git\SWPF.GameDevTool\SWPF.Common\SWPF.Common\obj\Debug\Styles\TextBoxStyles.baml
+D:\git\SWPF.GameDevTool\SWPF.Common\SWPF.Common\obj\Debug\Templates\ValidationErrorTemplate.baml
+D:\git\SWPF.GameDevTool\SWPF.Common\SWPF.Common\obj\Debug\SWPF.Common_MarkupCompile.cache
+D:\git\SWPF.GameDevTool\SWPF.Common\SWPF.Common\obj\Debug\SWPF.Common.g.resources
+D:\git\SWPF.GameDevTool\SWPF.Common\SWPF.Common\obj\Debug\SWPF.Common.Properties.Resources.resources
+D:\git\SWPF.GameDevTool\SWPF.Common\SWPF.Common\obj\Debug\SWPF.Common.csproj.GenerateResource.cache
+D:\git\SWPF.GameDevTool\SWPF.Common\SWPF.Common\obj\Debug\SWPF.Common.csproj.CoreCompileInputs.cache
+D:\git\SWPF.GameDevTool\SWPF.Common\SWPF.Common\obj\Debug\SWPF.Common.dll
+D:\git\SWPF.GameDevTool\SWPF.Common\SWPF.Common\obj\Debug\SWPF.Common.pdb
